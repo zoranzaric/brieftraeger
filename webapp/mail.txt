@@ -1,0 +1,68 @@
+Return-Path: <darmstadt-bounces@lists.metarheinmain.de>
+Delivered-To: zz@zoranzaric.de
+Received: from localhost (localhost [127.0.0.1])
+	by mail.tunnelblick-design.de (Postfix) with ESMTP id ABAF61CD08028
+	for <zz@zoranzaric.de>; Fri,  6 Jan 2012 16:25:05 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mail.tunnel-blick.de
+Received: from mail.tunnelblick-design.de ([127.0.0.1])
+	by localhost (lvps83-169-32-158.dedicated.hosteurope.de [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 0RAGW1E9uLmB for <zz@zoranzaric.de>;
+	Fri,  6 Jan 2012 16:25:00 +0100 (CET)
+Received: from mail.bytes-delivery.de (mail.bytes-delivery.de [89.238.66.39])
+	by mail.tunnelblick-design.de (Postfix) with ESMTP id 9ED4F1CD08023
+	for <zz@zoranzaric.de>; Fri,  6 Jan 2012 16:25:00 +0100 (CET)
+Received: from localhost (unknown [127.0.0.1])
+	by mail.bytes-delivery.de (Postfix) with ESMTP id 6335C448079;
+	Fri,  6 Jan 2012 16:25:00 +0100 (CET)
+Received: from mail.bytes-delivery.de ([127.0.0.1])
+	by localhost (sempai.spokanet.org [127.0.0.1]) (amavisd-new, port 10028)
+	with ESMTP id 5uBO0PnyXG95; Fri,  6 Jan 2012 16:25:00 +0100 (CET)
+Received: from private.chaos-darmstadt.de (private.chaos.hg.tu-darmstadt.de [130.83.177.130])
+	by mail.bytes-delivery.de (Postfix) with ESMTPA id 9B39A448058;
+	Fri,  6 Jan 2012 16:24:59 +0100 (CET)
+Received: by private.chaos-darmstadt.de (Postfix, from userid 5001)
+	id 71EA44C31; Fri,  6 Jan 2012 16:24:41 +0100 (CET)
+Received: from private.chaos-darmstadt.de (localhost [127.0.0.1])
+	by private.chaos-darmstadt.de (Postfix) with ESMTP id 55A7F4C27;
+	Fri,  6 Jan 2012 16:24:40 +0100 (CET)
+Received: from [192.168.1.200] (p579DC64F.dip.t-dialin.net [87.157.198.79])
+	by private.chaos-darmstadt.de (Postfix) with ESMTPSA id 7E6B94B0D
+	for <darmstadt@lists.metarheinmain.de>;
+	Fri,  6 Jan 2012 16:24:39 +0100 (CET)
+Message-ID: <4F071247.4030709@chaos-darmstadt.de>
+Date: Fri, 06 Jan 2012 16:24:55 +0100
+From: goto <goto@chaos-darmstadt.de>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64;
+	rv:9.0) Gecko/20111229 Thunderbird/9.0
+MIME-Version: 1.0
+To: darmstadt@lists.metarheinmain.de
+References: <rt-3.8.1-1108-1325788195-1448.1299-4-0@chaos-darmstadt.de>
+	<4F06F190.9000306@spamers.net> <4F06F228.4080901@t-online.de>
+	<4F0708C8.9060607@spamers.net>
+In-Reply-To: <4F0708C8.9060607@spamers.net>
+Subject: Re: [cda] Fwd: [cda #1299] OSE Community in Deutschland
+X-BeenThere: darmstadt@lists.metarheinmain.de
+X-Mailman-Version: 2.1.11
+Precedence: list
+List-Id: Die Mailingliste des ERFA Chaos Darmstadt
+	<darmstadt.lists.metarheinmain.de>
+List-Unsubscribe: <https://lists.metarheinmain.de/mailman/options/darmstadt>, 
+	<mailto:darmstadt-request@lists.metarheinmain.de?subject=unsubscribe>
+List-Archive: <https://lists.metarheinmain.de/mailman/private/darmstadt>
+List-Post: <mailto:darmstadt@lists.metarheinmain.de>
+List-Help: <mailto:darmstadt-request@lists.metarheinmain.de?subject=help>
+List-Subscribe: <https://lists.metarheinmain.de/mailman/listinfo/darmstadt>,
+	<mailto:darmstadt-request@lists.metarheinmain.de?subject=subscribe>
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="utf-8"; Format="flowed"
+Sender: darmstadt-bounces@lists.metarheinmain.de
+Errors-To: darmstadt-bounces@lists.metarheinmain.de
+Content-Length: 539
+
+QW0gMDYuMDEuMjAxMiAxNTo0NCwgc2NocmllYiBiaW9zOgo+IFJpY2h0aWcsIGRhcyBpc3QgZGll
+IElkZWUuIFdlciBuaWNodCBrb21tZW4gd2lsbCwgZGFyZiB0cm90emRlbSBhdWNoCj4KZ3V0IDop
+CkljaCBmw6RuZGVzIGVzIHRvbGwsIHdlbm4gc2ljaCBlaW4gcGFhciBMZXV0ZSBmw7xycyAKSMO2
+aGxlLWluLWFremVwdGFibGVuLVp1c3RhbmQtYnJpbmdlbiBtZWxkZW4gd8O8cmRlbiA6KQoKR3J1
+w58KZ290bwpfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwpE
+YXJtc3RhZHQgbWFpbGluZyBsaXN0CkRhcm1zdGFkdEBsaXN0cy5tZXRhcmhlaW5tYWluLmRlCmh0
+dHBzOi8vbGlzdHMubWV0YXJoZWlubWFpbi5kZS9tYWlsbWFuL2xpc3RpbmZvL2Rhcm1zdGFkdAo=
