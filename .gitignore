@@ -2,3 +2,5 @@
 /run/*
 /logs/*
 /logfile
+
+/webapp/database.sqlite3
