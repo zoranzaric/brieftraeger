@@ -6,7 +6,7 @@ class List(models.Model):
     site = models.ForeignKey(Site)
 
     def __unicode__(self):
-        return "%s.%s" % (self.name, self.site.domain)
+        return "%s@%s" % (self.name, self.site.domain)
 
 class Subscriber(models.Model):
     email = models.EmailField()
