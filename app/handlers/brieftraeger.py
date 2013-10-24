@@ -18,6 +18,7 @@ def START(message, address=None, host=None):
         return FORWARD
 
     message_id = message.get('Message-Id')
+    logging.debug("Message-Id: %s" % message_id)
     email = Email(message=message,
                   message_id=message_id,
                   list=list)
