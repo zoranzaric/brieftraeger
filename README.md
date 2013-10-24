@@ -35,6 +35,9 @@ Usage
     # send mail
     $ lamson send -sender "sender@example.com" -to "recipient@example.com" -subject “My test.” -body “Hi there.” -port 8823 -attach "False"
 
+    # or with mutt
+    mutt -F muttrc
+
 
     # stop
     $ lamson stop
