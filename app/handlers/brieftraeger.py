@@ -3,13 +3,19 @@ from lamson.routing import route, route_like, stateless
 from config.settings import relay
 from lamson import view
 from webapp.brieftraeger.models import Email, List
+from django.contrib.sites.models import Site
 
 
-@route("(address)@(host)", address=".+")
+@route("(address)@(host)", address=".+", host=".+")
 def START(message, address=None, host=None):
     incoming_list = "%s@%s" % (address, host)
     logging.debug("incoming list: %s" % incoming_list)
-    list = List.objects.get(name=address, site=host)
+
+    try:
+        site = Site.objects.get(name=host)
+        list = List.objects.get(name=address, site=site)
+    except List.DoesNotExist:
+        return FORWARD
 
     message_id = message.get('Message-Id')
     email = Email(message=message,
